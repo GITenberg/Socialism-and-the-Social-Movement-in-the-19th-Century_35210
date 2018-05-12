@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37534'
     url: http://www.gutenberg.org/2009/agents/37534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35210#Socialism-and-the-Social-Movement-in-the-19th-Century
 gutenberg_issued: '2011-02-08'
 gutenberg_type: Text
 identifiers:
